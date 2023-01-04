@@ -1,26 +1,26 @@
 banner:
   enable: true
   image: "images/banner.jpg"
-  contents: "**Arcana:** _A responsive site template freebie by [HTML5 UP](https://html5up.net/)_"
+  contents: "**勘星科技:** _让更多孩子感受航天的魅力！_"
   button:
-    contents: "Learn More"
-    url: "#"
+    contents: "了解更多"
+    url: "/product/"
 items:
   - type: highlights
     items_per_row: 3
     items:
-    - title: This Is Important
-      icon: fa-paper-plane
+    - title: 航天模拟
+      icon: fa-space-shuttle
       content: >
         Duis neque nisi, dapibus sed mattis et quis, nibh. Sed et dapibus nisl
         amet mattis, sed a rutrum accumsan sed. Suspendisse eu.
-    - title: Also Important
-      icon: fa-pencil-alt
+    - title: 编程教育
+      icon: fa-square-terminal
       content: >
         Duis neque nisi, dapibus sed mattis et quis, nibh. Sed et dapibus nisl
         amet mattis, sed a rutrum accumsan sed. Suspendisse eu.
-    - title: Probably Important
-      icon: fa-wrench
+    - title: 科普娱乐
+      icon: fa-bicycle
       content: >
         Duis neque nisi, dapibus sed mattis et quis, nibh. Sed et dapibus nisl
         amet mattis, sed a rutrum accumsan sed. Suspendisse eu.

@@ -1,0 +1,12 @@
+baseURL = "http://www.kanxingkeji.com/"
+languageCode = "zh"
+title = "北京勘星航天科技有限公司（网站建设中）"
+theme = "hugo-arcana"
+copyright = ""
+
+[taxonomies]
+    tag = "tags"
+
+[params]
+    description = "航天任务模拟操控和编程教学系统."
+    show_post_dates = false

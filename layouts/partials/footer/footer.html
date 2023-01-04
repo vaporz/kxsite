@@ -1,0 +1,45 @@
+<div id="footer">
+    <div class="container">
+        <div class="row">
+            {{- if gt (len .Site.Params.footer.links) 0 }}
+                {{- $link_cols := div (cond .Site.Params.footer.contact_form.enabled 6 12) (len .Site.Params.footer.links) }}
+                {{- range .Site.Params.footer.links }}
+                <section class="col-{{ $link_cols }} col-6-narrower col-12-mobilep">
+                    <h3>{{ .header }}</h3>
+                    <ul class="links">
+                        {{- range .links }}
+                            <li><a href="{{ .url }}">{{ .title }}</a>
+                        {{- end }}
+                    </ul>
+                </section>
+                {{- end }}
+            {{ end }}
+
+            {{- if .Site.Params.footer.contact_form.enabled }}
+                {{- partial "footer/contact.html" .Site.Params.footer.contact_form }}
+            {{- end }}
+        </div>
+    </div>
+
+    <ul class="icons">
+    {{- range .Site.Params.social }}
+        <li><a href="{{ .url }}" class="{{ if .icon }}icon brands {{ .icon  }}{{ end }}">
+            <span class="label">{{ .title }}</span>
+        </a>
+    {{- end }}
+    </ul>
+
+    <div class="copyright">
+        <ul class="menu">
+            {{ if .Site.Copyright }}
+                <li>{{ replace .Site.Copyright "{currentYear}" now.Year }}
+            {{ end }}
+            {{- if .Site.Params.attribution | default true }}
+            <li><image width="20px" height="20px" src="/images/gongan.png"></image>
+            <a target="_blank" href="http://www.beian.gov.cn/portal/registerSystemInfo?recordcode=11010502051149" style="display:inline-block;text-decoration:none;height:20px;line-height:20px;"><p style="float:left;height:20px;line-height:20px;margin: 0px 0px 0px 5px; color:#939393;">京公网安备 11010502051149号</p></a>
+
+            <a target="_blank" href="http://beian.miit.gov.cn/" style="display:inline-block;text-decoration:none;height:20px;line-height:20px;"><p style="float:left;height:20px;line-height:20px;margin: 0px 0px 0px 5px; color:#939393;">京ICP备2022030530号</p></a></li>
+            {{- end }}
+        </ul>
+    </div>
+</div>
