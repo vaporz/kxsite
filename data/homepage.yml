@@ -1,7 +1,7 @@
 banner:
   enable: true
   image: "images/banner.jpg"
-  contents: "**勘星科技:** _让更多孩子感受航天的魅力！_"
+  contents: "为青少年量身定制的，场景式、沉浸式、体验式的航天任务模拟系统"
   button:
     contents: "了解更多"
     url: "/product/"
@@ -12,27 +12,25 @@ items:
     - title: 航天模拟
       icon: fa-space-shuttle
       content: >
-        Duis neque nisi, dapibus sed mattis et quis, nibh. Sed et dapibus nisl
-        amet mattis, sed a rutrum accumsan sed. Suspendisse eu.
+        通过模拟控制台，学生可以亲自操控执行各种航天任务，例如火箭发射，空间交会对接，外星着陆等。
     - title: 编程教育
-      icon: fa-square-terminal
+      icon: fa-code
       content: >
-        Duis neque nisi, dapibus sed mattis et quis, nibh. Sed et dapibus nisl
-        amet mattis, sed a rutrum accumsan sed. Suspendisse eu.
+        学生可以学习编程，利用程序辅助执行，或者全自动执行航天任务。支持多种编程语言，比如Scratch，
+        Python，C，C++，C#，Go，PHP等等。
     - title: 科普娱乐
-      icon: fa-bicycle
+      icon: fa-atom
       content: >
-        Duis neque nisi, dapibus sed mattis et quis, nibh. Sed et dapibus nisl
-        amet mattis, sed a rutrum accumsan sed. Suspendisse eu.
+        通过精心设计的体验场景，结合全程语音提示，孩子能像航天员一样完成任务，充分体验到航天任务的紧张感和成就感。
   - type: heading
-    heading: A gigantic heading you can use for whatever
-    contents: With a much smaller subtitle hanging out just below it
-  - type: posts
-    #heading: Recent Posts
-    content_type: posts
-    max: 4
+    heading: 让更多孩子感受航天的魅力！
+    contents: 低成本，高质量，强沉浸
+#  - type: posts
+#    heading: 最新动态
+#    content_type: posts
+#    max: 2
   - type: cta
-    contents: Are you ready to continue your quest?
+    contents: 希望亲自参观体验本产品吗？
     button:
-      contents: Insert Coin
-      url: "#"
+      contents: 联系我们
+      url: "/about/"

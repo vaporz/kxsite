@@ -1,6 +1,6 @@
 baseURL = "http://www.kanxingkeji.com/"
 languageCode = "zh"
-title = "北京勘星航天科技有限公司（网站建设中）"
+title = "北京勘星航天科技有限公司"
 theme = "hugo-arcana"
 copyright = ""
 
@@ -10,3 +10,31 @@ copyright = ""
 [params]
     description = "航天任务模拟操控和编程教学系统."
     show_post_dates = false
+    show_post_image = false
+
+    [params.footer]
+        [[params.footer.links]]
+            header = "产品和服务"
+        [[params.footer.links.links]]
+            title = "产品介绍"
+            url = "/product/"
+        [[params.footer.links.links]]
+            title = "应用案例"
+            url = "/showcase/"
+
+        [[params.footer.links]]
+            header = "关于我们"
+        [[params.footer.links.links]]
+            title = "公司介绍"
+            url = "/about/"
+
+    [params.footer.contact_form]
+        enabled = true
+        header = "Get In Touch"
+        action = ""
+[markup]
+    [markup.goldmark]
+        [markup.goldmark.renderer]
+            hardWraps = false
+            unsafe = true
+            xhtml = false

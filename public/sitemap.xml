@@ -3,25 +3,28 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
     <loc>http://www.kanxingkeji.com/</loc>
-    <lastmod>2020-01-06T00:00:00+00:00</lastmod>
+    <lastmod>2023-01-03T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://www.kanxingkeji.com/posts/</loc>
-    <lastmod>2020-01-06T00:00:00+00:00</lastmod>
+    <loc>http://www.kanxingkeji.com/product/</loc>
   </url><url>
-    <loc>http://www.kanxingkeji.com/left-sidebar/</loc>
+    <loc>http://www.kanxingkeji.com/showcase/</loc>
   </url><url>
-    <loc>http://www.kanxingkeji.com/right-sidebar/</loc>
-  </url><url>
-    <loc>http://www.kanxingkeji.com/no-sidebar/</loc>
+    <loc>http://www.kanxingkeji.com/about/</loc>
   </url><url>
     <loc>http://www.kanxingkeji.com/tags/duis-neque/</loc>
-    <lastmod>2020-01-06T00:00:00+00:00</lastmod>
+    <lastmod>2023-01-03T00:00:00+00:00</lastmod>
   </url><url>
     <loc>http://www.kanxingkeji.com/tags/example/</loc>
-    <lastmod>2020-01-06T00:00:00+00:00</lastmod>
+    <lastmod>2023-01-03T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://www.kanxingkeji.com/posts/</loc>
+    <lastmod>2023-01-03T00:00:00+00:00</lastmod>
   </url><url>
     <loc>http://www.kanxingkeji.com/tags/</loc>
-    <lastmod>2020-01-06T00:00:00+00:00</lastmod>
+    <lastmod>2023-01-03T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://www.kanxingkeji.com/posts/test/</loc>
+    <lastmod>2023-01-03T00:00:00+00:00</lastmod>
   </url><url>
     <loc>http://www.kanxingkeji.com/posts/sixth/</loc>
     <lastmod>2020-01-06T00:00:00+00:00</lastmod>
@@ -43,11 +46,5 @@
   </url><url>
     <loc>http://www.kanxingkeji.com/posts/first/</loc>
     <lastmod>2020-01-01T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>http://www.kanxingkeji.com/tags/content/</loc>
-  </url><url>
-    <loc>http://www.kanxingkeji.com/tags/examples/</loc>
-  </url><url>
-    <loc>http://www.kanxingkeji.com/tags/sidebar/</loc>
   </url>
 </urlset>

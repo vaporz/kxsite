@@ -1,40 +1,54 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>首页 on 北京勘星航天科技有限公司（网站建设中）</title>
+    <title>首页 on 北京勘星航天科技有限公司</title>
     <link>http://www.kanxingkeji.com/</link>
-    <description>Recent content in 首页 on 北京勘星航天科技有限公司（网站建设中）</description>
+    <description>Recent content in 首页 on 北京勘星航天科技有限公司</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>zh</language>
-    <lastBuildDate>Mon, 06 Jan 2020 00:00:00 +0000</lastBuildDate><atom:link href="http://www.kanxingkeji.com/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Tue, 03 Jan 2023 00:00:00 +0000</lastBuildDate><atom:link href="http://www.kanxingkeji.com/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>Left Sidebar</title>
-      <link>http://www.kanxingkeji.com/left-sidebar/</link>
+      <title>产品介绍</title>
+      <link>http://www.kanxingkeji.com/product/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://www.kanxingkeji.com/left-sidebar/</guid>
-      <description>Phasellus quam turpis, feugiat sit amet ornare in, hendrerit in lectus. Praesent semper mod quis eget mi. Etiam eu ante risus. Aliquam erat volutpat. Aliquam luctus et mattis lectus sit amet pulvinar. Nam turpis nisi consequat etiam lorem ipsum dolor sit amet nullam.
-And Yet Another Subheading Lorem ipsum dolor sit amet, consectetur adipiscing elit. Maecenas ac quam risus, at tempus justo. Sed dictum rutrum massa eu volutpat. Quisque vitae hendrerit sem.</description>
+      <guid>http://www.kanxingkeji.com/product/</guid>
+      <description>本系统借助震撼的视听效果，拟真的模拟系统和强大的可编程系统，让学生在充分体验航天魅力的同时还能掌握一定的编程技巧，进而体会到航天任务的严谨性，学习航天工程背后蕴含的科学原理。 通过模拟飞船控制台，学生可以亲自手动操控执行各类航天任务（比如长征五号发射，祝融火星车着陆等等），也可以学习编程，通过程序替代手动操作，自动化完成航天任务。 本系统可用于模拟各类航天任务，可以根据需求快速定制各种场景。
+模拟控制台双座版 控制台上的4个屏幕为触摸屏，可以直接通过触摸屏控制模拟的航天器。
+模拟控制台单座版 控制台上的3个屏幕为触摸屏，可以直接通过触摸屏控制模拟的航天器。
+模拟控制台桌面版 通过控制台，可以模拟操控执行各类航天任务，例如火箭发射，空间交会对接，火星着陆，月球着陆等。
+除了通过控制台手动操控执行航天任务，本系统还内置了编程教学软件工具，并附带16个课时的“航天特色编程课”。学生通过学习课程， 可以掌握基本的编程技巧，并有能力编写程序来自动化完成航天任务。
+本系统支持多种编程语言，如下图所示：</description>
     </item>
     
     <item>
-      <title>Right Sidebar</title>
-      <link>http://www.kanxingkeji.com/right-sidebar/</link>
+      <title>应用案例</title>
+      <link>http://www.kanxingkeji.com/showcase/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://www.kanxingkeji.com/right-sidebar/</guid>
-      <description>Phasellus quam turpis, feugiat sit amet ornare in, hendrerit in lectus. Praesent semper mod quis eget mi. Etiam eu ante risus. Aliquam erat volutpat. Aliquam luctus et mattis lectus sit amet pulvinar. Nam turpis nisi consequat etiam lorem ipsum dolor sit amet nullam.
-And Yet Another Subheading Lorem ipsum dolor sit amet, consectetur adipiscing elit. Maecenas ac quam risus, at tempus justo. Sed dictum rutrum massa eu volutpat. Quisque vitae hendrerit sem.</description>
+      <guid>http://www.kanxingkeji.com/showcase/</guid>
+      <description> 本产品已成功应用于各种场合，包括中小学校内教学，少儿编程机构，游学营、研学营，商圈游玩体验等。
+中小学校内教学 少儿编程机构 游学营、研学营 商圈游玩体验 </description>
     </item>
     
     <item>
-      <title>No Sidebar</title>
-      <link>http://www.kanxingkeji.com/no-sidebar/</link>
+      <title>关于我们</title>
+      <link>http://www.kanxingkeji.com/about/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://www.kanxingkeji.com/no-sidebar/</guid>
-      <description>Phasellus quam turpis, feugiat sit amet ornare in, hendrerit in lectus. Praesent semper mod quis eget mi. Etiam eu ante risus. Aliquam erat volutpat. Aliquam luctus et mattis lectus sit amet pulvinar. Nam turpis nisi consequat etiam lorem ipsum dolor sit amet nullam.
-And Yet Another Subheading Lorem ipsum dolor sit amet, consectetur adipiscing elit. Maecenas ac quam risus, at tempus justo. Sed dictum rutrum massa eu volutpat. Quisque vitae hendrerit sem.</description>
+      <guid>http://www.kanxingkeji.com/about/</guid>
+      <description>北京勘星航天科技有限公司（简称勘星科技），2019年10月于北京成立，是一家专注于航天任务模拟体验的创新科技公司。 我们致力于将航天特色融入文旅产业，寓教于乐，希望让每个孩子都能体验到航天的魅力。
+大国崛起，必然发展航天。在各个领域，航天题材越来越受关注。 随着经济发展，文旅活动日渐活跃，尤其是针对青少年的游学研学和科普娱乐项目，而一个有航天特色的体验项目，十分受到各类营地和场馆的欢迎。 我们秉承“低成本，高质量，强沉浸感”的理念，致力于把航天特色融入文旅产业之中，寓教于乐，让更多青少年感受到航天的魅力。 同时，我们也在响应国家政策的号召，通过“场景式，体验式，沉浸式”的内容，提高青少年的科学素质。 我们已经完成了第二代产品的研发，并在校内教学、校外培训、科普娱乐等各类活动中广泛应用，孩子们非常喜欢，也受到了家长和合作伙伴的好评。 接下来，我们将继续研发工作，开发出更强大的软件，更完善的运营系统，更丰富的内容，以及更符合市场需求的设备，最终建立完整的航天特色文旅产品体系。</description>
+    </item>
+    
+    <item>
+      <title>测试页面</title>
+      <link>http://www.kanxingkeji.com/posts/test/</link>
+      <pubDate>Tue, 03 Jan 2023 00:00:00 +0000</pubDate>
+      
+      <guid>http://www.kanxingkeji.com/posts/test/</guid>
+      <description>Duis neque nisi, dapibus sed mattis et quis, nibh. Sed et dapibus nisl amet mattis, sed a rutrum accumsan sed. Suspendisse eu.
+Suspendisse laoreet metus ut metus imperdiet interdum aliquam justo tincidunt.</description>
     </item>
     
     <item>
