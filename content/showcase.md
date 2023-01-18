@@ -1,10 +1,10 @@
 ---
 title: "应用案例"
-description: "Use case"
+description: "Use Case"
 menu: main
 weight: 30
 image: images/banner.jpg
-image_alt: "Hello!"
+image_alt: "Use Case"
 tags:
 sidebar_left: sidebar1
 ---

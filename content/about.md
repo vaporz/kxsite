@@ -1,13 +1,13 @@
 ---
 title: "关于我们"
-description: "About us"
+description: "About Us"
 menu: main
 weight: 40
 image: images/banner.jpg
-image_alt: "Hello!"
+image_alt: "About Us"
 ---
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-北京勘星航天科技有限公司（简称勘星科技），2019年10月于北京成立，是一家专注于航天任务模拟体验的创新科技公司。
+北京勘星航天科技有限公司（简称勘星科技），2019年于北京成立，是一家专注于航天任务模拟体验的创新科技公司。
 \
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 我们致力于将航天特色融入文旅产业，寓教于乐，希望让每个孩子都能体验到航天的魅力。
@@ -19,7 +19,7 @@ image_alt: "Hello!"
 随着经济发展，文旅活动日渐活跃，尤其是针对青少年的游学研学和科普娱乐项目，而一个有航天特色的体验项目，十分受到各类营地和场馆的欢迎。
 \
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-我们秉承“低成本，高质量，强沉浸感”的理念，致力于把航天特色融入文旅产业之中，寓教于乐，让更多青少年感受到航天的魅力。
+我们秉承“低投入，高质量，强沉浸”的理念，致力于把航天特色融入文旅产业之中，寓教于乐，让更多青少年感受到航天的魅力。
 \
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 同时，我们也在响应国家政策的号召，通过“场景式，体验式，沉浸式”的内容，提高青少年的科学素质。
