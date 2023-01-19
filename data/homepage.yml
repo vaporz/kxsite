@@ -30,7 +30,7 @@ items:
 #    content_type: posts
 #    max: 2
   - type: cta
-    contents: 希望亲自参观体验本产品吗？
+    contents: 希望亲自参观体验吗？
     button:
       contents: 联系我们
-      url: "/about/"
+      url: "/contact/"
