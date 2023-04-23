@@ -4,7 +4,7 @@ TARGET=$1
 USERNAME=$2
 PASSW=$3
 if [ -z "$TARGET" ] || [ -z "$USERNAME" ] || [ -z "$PASSW" ] ; then
-  echo "Usage: deploy.sh ip user_name password [cp-only]"
+  echo "Usage: bash deploy.sh 39.104.205.93 kx xiaoxiao\!1"
 	exit 0
 fi
 

@@ -1,10 +1,10 @@
 ---
 title: "产品介绍"
-description: "Our Production"
+description: "Our Product"
 menu: main
 weight: 20
 image: images/banner.jpg
-image_alt: "Our Production"
+image_alt: "Our Product"
 tags:
 sidebar_left: sidebar1
 ---

@@ -11,6 +11,17 @@ sidebar_left: sidebar1
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 本产品已成功应用于各种场合，包括中小学校内教学，少儿编程机构，游学营、研学营，商圈游玩体验等。
 
+#### 活动展示
+<div style="text-align: center;">
+<img src="/images/scene_event.jpg" alt="活动展示" title="活动展示" width=90%/>
+</div>
+<div style="text-align: center;">
+<img src="/images/scene_event1.jpg" alt="活动展示" title="活动展示" width=90%/>
+</div>
+<div style="text-align: center;">
+<img src="/images/scene_event2.jpg" alt="活动展示" title="活动展示" width=90%/>
+</div>
+
 #### 中小学校内教学
 <div style="text-align: center;">
 <img src="/images/scene_classroom.jpg" alt="校内教学" title="校内教学" width=90%/>
