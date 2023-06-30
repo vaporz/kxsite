@@ -1,5 +1,6 @@
 <div id="header">
     <h1><a href="{{ .Site.BaseURL }}" id="logo">
+        <img src="/images/logo.png" alt="勘星科技" title="勘星科技" width=5% />
         {{ with .Site.Data.globalheader.title }}{{ . | markdownify }}{{ else }}{{ .Site.Title }}{{ end }}
     </a></h1>
 

@@ -6,8 +6,16 @@ weight: 40
 image: images/banner.jpg
 image_alt: "About Us"
 ---
+
+<div style="text-align: center;">
+<img src="/images/logo.png" alt="勘星科技" title="勘星科技" width=15%/>
+</div>
+<div style="text-align: center;">
+<img src="/images/勘星科技.png" alt="勘星科技" title="勘星科技" width=15%/>
+</div>
+
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-北京勘星航天科技有限公司（简称勘星科技），2019年于北京成立，是一家专注于航天任务模拟体验的创新科技公司。
+北京勘星航天科技有限公司（简称“勘星科技”），2019年于北京成立，是一家专注于航天任务模拟体验的创新科技公司。
 \
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 我们致力于将航天特色融入文旅产业，寓教于乐，希望让每个孩子都能体验到航天的魅力。
