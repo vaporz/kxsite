@@ -9,7 +9,7 @@ tags:
 sidebar_left: sidebar1
 ---
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-本系统借助震撼的视听效果，拟真的模拟系统和强大的可编程系统，让学生在充分体验航天魅力的同时还能掌握一定的编程技巧，进而体会到航天任务的严谨性，学习航天工程背后蕴含的科学原理。
+本系统以震撼的视听效果、拟真的模拟系统和强大的可编程系统为特色，让学生在体验航天魅力的同时，掌握编程技能，感悟航天任务的严谨性，学习航天工程的科学原理。
 \
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 通过模拟飞船控制台，学生可以亲自手动操控执行各类航天任务（比如长征五号发射，祝融火星车着陆等等），也可以学习编程，通过程序替代手动操作，自动化完成航天任务。
@@ -17,12 +17,21 @@ sidebar_left: sidebar1
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 本系统可用于模拟各类航天任务，可以根据需求快速定制各种场景。
 
+#### <div style="text-align: center;">模拟控制台座舱版</div>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+示意图，外观可定制。
+<div style="text-align: center;">
+<img src="/images/cabin.png" alt="模拟控制台座舱版" title="模拟控制台座舱版" width=50%/>
+</div>
+<p>
+
 #### <div style="text-align: center;">模拟控制台双座版</div>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 控制台上的4个屏幕为触摸屏，可以直接通过触摸屏控制模拟的航天器。
 <div style="text-align: center;">
 <img src="/images/panel_2.png" alt="模拟控制台双座版" title="模拟控制台双座版" width=80%/>
 </div>
+<p>
 
 #### <div style="text-align: center;">模拟控制台单座版</div>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
@@ -30,11 +39,19 @@ sidebar_left: sidebar1
 <div style="text-align: center;">
 <img src="/images/panel_1.png" alt="模拟控制台单座版" title="模拟控制台单座版" width=70%/>
 </div>
+<p>
 
 #### <div style="text-align: center;">模拟控制台桌面版</div>
 <div style="text-align: center;">
-<img src="/images/panel_desktop.png" alt="模拟控制台桌面版" title="模拟控制台桌面版" width=70%/>
+<img src="/images/panel_desktop.png" alt="模拟控制台桌面版" title="模拟控制台桌面版" width=50%/>
 </div>
+<p>
+
+#### <div style="text-align: center;">学生用编程终端</div>
+<div style="text-align: center;">
+<img src="/images/program.png" alt="学生用编程终端" title="学生用编程终端" width=50%/>
+</div>
+<p>
 
 \
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
