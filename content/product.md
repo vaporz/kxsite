@@ -17,39 +17,39 @@ sidebar_left: sidebar1
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 本系统可用于模拟各类航天任务，可以根据需求快速定制各种场景。
 
-#### <div style="text-align: center;">模拟控制台座舱版</div>
+#### <div style="text-align: center;">座舱式模拟控制台</div>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 示意图，外观可定制。
 <div style="text-align: center;">
-<img src="/images/cabin.png" alt="模拟控制台座舱版" title="模拟控制台座舱版" width=50%/>
+<img src="/images/cabin.png" alt="座舱式模拟控制台" title="座舱式模拟控制台" width=50%/>
 </div>
 <p>
 
-#### <div style="text-align: center;">模拟控制台双座版</div>
+#### <div style="text-align: center;">双座模拟控制台</div>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 控制台上的4个屏幕为触摸屏，可以直接通过触摸屏控制模拟的航天器。
 <div style="text-align: center;">
-<img src="/images/panel_2.png" alt="模拟控制台双座版" title="模拟控制台双座版" width=80%/>
+<img src="/images/panel_2.png" alt="双座模拟控制台" title="双座模拟控制台" width=80%/>
 </div>
 <p>
 
-#### <div style="text-align: center;">模拟控制台单座版</div>
+#### <div style="text-align: center;">单座模拟控制台</div>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 控制台上的3个屏幕为触摸屏，可以直接通过触摸屏控制模拟的航天器。
 <div style="text-align: center;">
-<img src="/images/panel_1.png" alt="模拟控制台单座版" title="模拟控制台单座版" width=70%/>
+<img src="/images/panel_1.png" alt="单座模拟控制台" title="单座模拟控制台" width=70%/>
 </div>
 <p>
 
-#### <div style="text-align: center;">模拟控制台桌面版</div>
+#### <div style="text-align: center;">桌面模拟控制台</div>
 <div style="text-align: center;">
-<img src="/images/panel_desktop.png" alt="模拟控制台桌面版" title="模拟控制台桌面版" width=50%/>
+<img src="/images/panel_desktop.png" alt="桌面模拟控制台" title="桌面模拟控制台" width=50%/>
 </div>
 <p>
 
-#### <div style="text-align: center;">学生用编程终端</div>
+#### <div style="text-align: center;">学生编程终端</div>
 <div style="text-align: center;">
-<img src="/images/program.png" alt="学生用编程终端" title="学生用编程终端" width=50%/>
+<img src="/images/program.png" alt="学生编程终端" title="学生编程终端" width=50%/>
 </div>
 <p>
 
