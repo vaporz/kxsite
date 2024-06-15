@@ -783,7 +783,7 @@
 
     #header {
         text-align: center;
-        padding: 3em 0 0 0;
+        padding: 2em 0 0 0;
         background-color: #fff;
         background-image:           url('images/bg02.png'),     url('images/bg02.png'),     url('images/bg01.png');
         background-position:        top left,                   top left,                   top left;
@@ -791,13 +791,19 @@
         background-repeat:          no-repeat,                  no-repeat,                  repeat;
 
         h1 {
-            padding: 0 0 2.75em 0;
+            padding: 0 0 2em 0;
             margin: 0;
 
             a {
                 font-size: 1.5em;
                 letter-spacing: -0.025em;
                 border: 0;
+                /* 使用flex布局 */
+                display: flex;
+                /* 垂直居中 */
+                align-items: center;
+                /* 水平居中 */
+                justify-content: center;
             }
         }
     }
