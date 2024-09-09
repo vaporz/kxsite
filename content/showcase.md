@@ -32,6 +32,11 @@ sidebar_left: sidebar1
 </div>
 <div style="text-align: center;">荆门市军马场学校</div>
 <br>
+<div style="text-align: center;">
+<img src="/images/jiaxing.jpg" alt="校内教学" title="校内教学" width=90%/>
+</div>
+<div style="text-align: center;">浙江省嘉兴市清华附属学校</div>
+<br>
 
 #### 科技节活动
 <div style="text-align: center;">
@@ -67,9 +72,13 @@ sidebar_left: sidebar1
 
 #### 游学营、研学营
 <div style="text-align: center;">
-<div style="text-align: left;">北京市五矿君澜酒店：</div>
-<img src="/images/scene_camp1.jpg" alt="游学研学" title="游学研学" width=90%/>
+<div style="text-align: left;">北京市锦绣航天科普基地：</div>
+<img src="/images/jinxiu.jpg" alt="游学研学" title="游学研学" width=90%/>
 </div>
 <div style="text-align: center;">
+<img src="/images/jinxiu2.jpg" alt="游学研学" title="游学研学" width=90%/>
+</div>
+<div style="text-align: center;">
+<div style="text-align: left;">北京市五矿君澜酒店：</div>
 <img src="/images/scene_camp.jpg" alt="游学研学" title="游学研学" width=90%/>
 </div>
