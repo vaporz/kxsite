@@ -56,7 +56,7 @@ sidebar_left: sidebar1
 
 #### <div style="text-align: center;">桌面模拟控制台</div>
 <div style="text-align: center;">
-<img src="/images/panel_desktop.png" alt="桌面模拟控制台" title="桌面模拟控制台" width=80%/>
+<img src="/images/panel_desktop.png" alt="桌面模拟控制台" title="桌面模拟控制台" width=100%/>
 </div>
 <p>
 
@@ -70,16 +70,24 @@ sidebar_left: sidebar1
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 通过控制台，可以模拟操控执行各类航天任务，例如火箭发射，空间交会对接，火星着陆，月球着陆等。
 <div style="text-align: center;">
-<img src="/images/scenes.jpg" alt="航天任务" title="航天任务" width=90%/>
+<img src="/images/scenes.jpg" alt="航天任务" title="航天任务" width=100%/>
 </div>
 
 \
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-除了通过控制台手动操控执行航天任务，本系统还内置了编程教学软件工具，并附带16个课时的“航天特色编程课”。学生通过学习课程，
-可以掌握基本的编程技巧，并有能力编写程序来自动化完成航天任务。
+除了通过控制台手动操控执行航天任务，本系统还内置了编程教学软件工具，可以教授极具特色的“航天编程课”。
+\
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+学生通过学习课程，可以掌握基本的编程技巧，编写程序来自动化完成航天任务。
+<div style="text-align: center;">
+<img src="/images/courses.png" alt="航天任务" title="课程" width=100%/>
+</div>
+<div style="text-align: center;">
+<img src="/images/program1.png" alt="航天任务" title="程序" width=100%/>
+</div>
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 本系统支持多种编程语言：
 <div style="text-align: center;">
-<img src="/images/program.jpg" alt="编程语言" title="编程语言" width=80%/>
+<img src="/images/program.jpg" alt="编程语言" title="编程语言" width=100%/>
 </div>
