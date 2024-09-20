@@ -1,15 +1,28 @@
 ---
 title: "应用案例"
-description: "Use Case"
+description: "Showcase"
 menu: main
 weight: 30
 image: images/banner.jpg
-image_alt: "Use Case"
+image_alt: "Showcases"
 tags:
 sidebar_left: sidebar1
 ---
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 本产品已成功应用于各种场合，包括中小学校内教学，少儿编程机构，游学营、研学营，商圈游玩体验等。
+
+#### 游学营、研学营
+<div style="text-align: center;">
+<div style="text-align: left;">北京市锦绣航天科普基地：</div>
+<img src="/images/jinxiu.jpg" alt="游学研学" title="游学研学" width=90%/>
+</div>
+<div style="text-align: center;">
+<img src="/images/jinxiu2.jpg" alt="游学研学" title="游学研学" width=90%/>
+</div>
+<div style="text-align: center;">
+<div style="text-align: left;">北京市五矿君澜酒店：</div>
+<img src="/images/scene_camp.jpg" alt="游学研学" title="游学研学" width=90%/>
+</div>
 
 #### 航天特色实验室
 <div style="text-align: center;">
@@ -69,16 +82,3 @@ sidebar_left: sidebar1
 <img src="/images/scene_code2.jpg" alt="少儿编程" title="少儿编程" width=70%/>
 </div>
 <br>
-
-#### 游学营、研学营
-<div style="text-align: center;">
-<div style="text-align: left;">北京市锦绣航天科普基地：</div>
-<img src="/images/jinxiu.jpg" alt="游学研学" title="游学研学" width=90%/>
-</div>
-<div style="text-align: center;">
-<img src="/images/jinxiu2.jpg" alt="游学研学" title="游学研学" width=90%/>
-</div>
-<div style="text-align: center;">
-<div style="text-align: left;">北京市五矿君澜酒店：</div>
-<img src="/images/scene_camp.jpg" alt="游学研学" title="游学研学" width=90%/>
-</div>

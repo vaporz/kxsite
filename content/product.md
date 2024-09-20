@@ -12,7 +12,7 @@ sidebar_left: sidebar1
 本系统以震撼的视听效果、拟真的模拟系统和强大的可编程系统为特色，让学生在体验航天魅力的同时，掌握编程技能，感悟航天任务的严谨性，学习航天工程的科学原理。
 \
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-通过模拟飞船控制台，学生可以亲自手动操控执行各类航天任务（比如长征五号发射，祝融火星车着陆等等），也可以学习编程，通过程序替代手动操作，自动化完成航天任务。
+通过模拟飞船控制台，学生可以亲自<b>手动操控</b>执行各类航天任务（比如长征五号发射，祝融火星车着陆等等），也可以<b>学习编程</b>，通过程序替代手动操作，自动化完成航天任务。
 \
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 本系统可用于模拟各类航天任务，可以根据需求快速定制各种场景。
@@ -58,6 +58,9 @@ sidebar_left: sidebar1
 <div style="text-align: center;">
 <img src="/images/panel_desktop.png" alt="桌面模拟控制台" title="桌面模拟控制台" width=100%/>
 </div>
+<div style="text-align: center;">
+<img src="/images/desk.png" alt="桌面模拟控制台" title="桌面模拟控制台" width=60%/>
+</div>
 <p>
 
 #### <div style="text-align: center;">学生编程终端</div>
@@ -75,7 +78,7 @@ sidebar_left: sidebar1
 
 \
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-除了通过控制台手动操控执行航天任务，本系统还内置了编程教学软件工具，可以教授极具特色的“航天编程课”。
+除了通过控制台手动操控执行航天任务，本系统还内置了<b>编程教学软件工具</b>，可以教授极具特色的<b>“航天编程课”</b>。
 \
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 学生通过学习课程，可以掌握基本的编程技巧，编写程序来自动化完成航天任务。
