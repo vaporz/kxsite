@@ -1,13 +1,15 @@
 ---
-title: "产品介绍"
+title: "硬件设备"
 description: "Our Product"
 menu: main
-weight: 20
+weight: 15
 image: images/banner.jpg
 image_alt: "Our Product"
 tags:
 sidebar_left: sidebar1
 ---
+<iframe src="//player.bilibili.com/player.html?isOutside=true&aid=113105329718639&bvid=BV1WMpLeAE1r&cid=25633821381&p=1&danmaku=0&high_quality=1" width="100%" height="450" scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="allowfullscreen"></iframe>
+
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 本系统以震撼的视听效果、拟真的模拟系统和强大的可编程系统为特色，让学生在体验航天魅力的同时，掌握编程技能，感悟航天任务的严谨性，学习航天工程的科学原理。
 \
@@ -68,29 +70,3 @@ sidebar_left: sidebar1
 <img src="/images/program.png" alt="学生编程终端" title="学生编程终端" width=70%/>
 </div>
 <p>
-
-\
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-通过控制台，可以模拟操控执行各类航天任务，例如火箭发射，空间交会对接，火星着陆，月球着陆等。
-<div style="text-align: center;">
-<img src="/images/scenes.jpg" alt="航天任务" title="航天任务" width=100%/>
-</div>
-
-\
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-除了通过控制台手动操控执行航天任务，本系统还内置了<b>编程教学软件工具</b>，可以教授极具特色的<b>“航天编程课”</b>。
-\
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-学生通过学习课程，可以掌握基本的编程技巧，编写程序来自动化完成航天任务。
-<div style="text-align: center;">
-<img src="/images/courses.png" alt="航天任务" title="课程" width=100%/>
-</div>
-<div style="text-align: center;">
-<img src="/images/program1.png" alt="航天任务" title="程序" width=100%/>
-</div>
-
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-本系统支持多种编程语言：
-<div style="text-align: center;">
-<img src="/images/program.jpg" alt="编程语言" title="编程语言" width=100%/>
-</div>

@@ -25,10 +25,10 @@ items:
   - type: heading
     heading: 让更多孩子感受航天的魅力！
     contents: 低投入，高质量，强沉浸
-#  - type: posts
-#    heading: 最新动态
-#    content_type: posts
-#    max: 2
+  - type: posts
+    heading:
+    content_type: posts
+    max: 4
   - type: cta
     contents: 想了解更多？
     button:

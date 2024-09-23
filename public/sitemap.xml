@@ -3,9 +3,11 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
     <loc>http://www.kanxingkeji.com/</loc>
-    <lastmod>2023-01-03T00:00:00+00:00</lastmod>
+    <lastmod>2024-09-22T00:00:00+00:00</lastmod>
   </url><url>
     <loc>http://www.kanxingkeji.com/product/</loc>
+  </url><url>
+    <loc>http://www.kanxingkeji.com/software/</loc>
   </url><url>
     <loc>http://www.kanxingkeji.com/bundle/</loc>
   </url><url>
@@ -15,40 +17,21 @@
   </url><url>
     <loc>http://www.kanxingkeji.com/contact/</loc>
   </url><url>
-    <loc>http://www.kanxingkeji.com/tags/duis-neque/</loc>
-    <lastmod>2023-01-03T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>http://www.kanxingkeji.com/tags/example/</loc>
-    <lastmod>2023-01-03T00:00:00+00:00</lastmod>
-  </url><url>
     <loc>http://www.kanxingkeji.com/posts/</loc>
-    <lastmod>2023-01-03T00:00:00+00:00</lastmod>
+    <lastmod>2024-09-22T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://www.kanxingkeji.com/posts/product/</loc>
+    <lastmod>2024-09-22T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://www.kanxingkeji.com/posts/software/</loc>
+    <lastmod>2024-09-21T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://www.kanxingkeji.com/posts/bundle/</loc>
+    <lastmod>2024-09-20T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://www.kanxingkeji.com/posts/showcase/</loc>
+    <lastmod>2024-09-19T00:00:00+00:00</lastmod>
   </url><url>
     <loc>http://www.kanxingkeji.com/tags/</loc>
-    <lastmod>2023-01-03T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>http://www.kanxingkeji.com/posts/test/</loc>
-    <lastmod>2023-01-03T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>http://www.kanxingkeji.com/posts/sixth/</loc>
-    <lastmod>2020-01-06T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>http://www.kanxingkeji.com/tags/lorem-ipsum/</loc>
-    <lastmod>2020-01-05T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>http://www.kanxingkeji.com/posts/fifth/</loc>
-    <lastmod>2020-01-05T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>http://www.kanxingkeji.com/posts/fourth/</loc>
-    <lastmod>2020-01-04T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>http://www.kanxingkeji.com/posts/third/</loc>
-    <lastmod>2020-01-03T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>http://www.kanxingkeji.com/posts/second/</loc>
-    <lastmod>2020-01-02T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>http://www.kanxingkeji.com/posts/aiden_demo/</loc>
-    <lastmod>2020-01-01T00:00:00+00:00</lastmod>
   </url>
 </urlset>

@@ -2,7 +2,7 @@
 title: "产品套装"
 description: "Product Bundles"
 menu: main
-weight: 20
+weight: 25
 image: images/banner.jpg
 image_alt: "Product Bundles"
 tags:

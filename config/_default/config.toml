@@ -16,8 +16,14 @@ copyright = ""
         [[params.footer.links]]
             header = "产品和服务"
         [[params.footer.links.links]]
-            title = "产品介绍"
+            title = "硬件设备"
             url = "/product/"
+        [[params.footer.links.links]]
+            title = "软件和课程"
+            url = "/software/"
+        [[params.footer.links.links]]
+            title = "产品套装"
+            url = "/bundle/"
         [[params.footer.links.links]]
             title = "应用案例"
             url = "/showcase/"
