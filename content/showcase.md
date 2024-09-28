@@ -10,6 +10,7 @@ sidebar_left: sidebar1
 ---
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 本产品已成功应用于各种场合，包括中小学校内教学，少儿编程机构，游学营、研学营，商圈游玩体验等。
+<iframe src="//player.bilibili.com/player.html?isOutside=true&aid=113214918493109&bvid=BV1q9xTegEkq&cid=26046631627&p=1&danmaku=0&high_quality=1" width="100%" height="450" scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="allowfullscreen"></iframe>
 
 #### 游学营、研学营
 <div style="text-align: center;">
@@ -23,6 +24,7 @@ sidebar_left: sidebar1
 <div style="text-align: left;">北京市五矿君澜酒店：</div>
 <img src="/images/scene_camp.jpg" alt="游学研学" title="游学研学" width=90%/>
 </div>
+<iframe src="//player.bilibili.com/player.html?isOutside=true&aid=113214918494590&bvid=BV1i9xTegEZx&cid=26046630351&p=1&autoplay=0" width="100%" height="450" scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="allowfullscreen"></iframe>
 
 #### 航天特色实验室
 <div style="text-align: center;">
@@ -60,6 +62,7 @@ sidebar_left: sidebar1
 </div>
 
 #### 娱乐体验
+<iframe src="//player.bilibili.com/player.html?isOutside=true&aid=113214918559064&bvid=BV1o9xTegEyx&cid=26046630053&p=1&autoplay=0" width="100%" height="450" scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="allowfullscreen"></iframe>
 <div style="text-align: center;">
 <img src="/images/scene_2c1.jpg" alt="游玩体验" title="游玩体验" width=90%/>
 </div>
