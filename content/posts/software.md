@@ -16,6 +16,9 @@ summary: "本系统可以模拟各种航天任务，例如火箭发射，空间�
 <div style="text-align: center;">
 <img src="/images/scenes.jpg" alt="航天任务" title="航天任务" width=70%/>
 </div>
+<div style="text-align: center;">
+<img src="/images/gui.png" alt="航天任务" title="课程" width=100%/>
+</div>
 
 &nbsp;
 
