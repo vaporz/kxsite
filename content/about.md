@@ -28,3 +28,8 @@ image_alt: "About Us"
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 勘星科技将立足超大规模实践场景，整合虚拟现实数字优势资源，构建高品质的航天科普产品，打造全场景全体系品质服务，加快建设具有强竞争力的一流企业，持续为客户、用户、员工和社会创造更多更大价值。
+
+# 荣誉资质
+<div style="text-align: center;">
+<img src="/images/gaoxin.png" alt="国家级高新技术企业" title="国高新" width=20%/>
+</div>
