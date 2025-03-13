@@ -38,6 +38,11 @@ sidebar_left: sidebar1
 <div style="text-align: center;">长沙市中小学素质教育实践基地</div>
 <br>
 <div style="text-align: center;">
+<img src="/images/chengdu.jpg" alt="校内教学" title="校内教学" width=90%/>
+</div>
+<div style="text-align: center;">成都市航天中学校</div>
+<br>
+<div style="text-align: center;">
 <img src="/images/scene_classroom3.jpg" alt="校内教学" title="校内教学" width=90%/>
 </div>
 <div style="text-align: center;">河南省鲁山县第一高级中学</div>
