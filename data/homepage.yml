@@ -1,7 +1,7 @@
 banner:
   enable: true
   image: "images/banner.jpg"
-  contents: "为青少年量身定制的，场景式、沉浸式、体验式的航天任务模拟系统"
+  contents: "为青少年量身定制的，场景式、沉浸式、体验式航天任务模拟系统"
   button:
     contents: "了解更多"
     url: "/product/"
@@ -23,7 +23,7 @@ items:
       content: >
         通过精心设计的体验场景，结合全程语音提示，孩子能像航天员一样完成任务，充分体验到航天任务的紧张感和成就感。
   - type: heading
-    heading: 让每个孩子都能感受航天的魅力！
+    heading: 打造中国航天科普教育基础设施！
     contents: 低成本，高质量，强沉浸
   - type: posts
     heading:
