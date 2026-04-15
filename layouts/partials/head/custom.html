@@ -1,6 +1,23 @@
-{{/* This file intentionally left blank.
-   * Put your custom head template for analytics, etc. into your site's
-   * (not the theme's) layouts/partials/head/custom.html
-   */}}
+{{/* 百度统计 - 请将 YOUR_BAIDU_TONGJI_ID 替换为实际的统计 ID */}}
+{{ if .Site.Params.baidu_tongji_id }}
+<script>
+var _hmt = _hmt || [];
+(function() {
+  var hm = document.createElement("script");
+  hm.src = "https://hm.baidu.com/hm.js?{{ .Site.Params.baidu_tongji_id }}";
+  var s = document.getElementsByTagName("script")[0];
+  s.parentNode.insertBefore(hm, s);
+})();
+</script>
+{{ end }}
 
-<link rel="icon" href="/images/logo100.png" sizes="16x16">
+{{/* Google Analytics - 请将 YOUR_GA_ID 替换为实际的 Google Analytics ID (如 G-XXXXXXXXXX) */}}
+{{ if .Site.Params.google_analytics_id }}
+<script async src="https://www.googletagmanager.com/gtag/js?id={{ .Site.Params.google_analytics_id }}"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+  gtag('config', '{{ .Site.Params.google_analytics_id }}');
+</script>
+{{ end }}

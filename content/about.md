@@ -1,17 +1,20 @@
 ---
-title: "关于我们"
-description: "About Us"
+title: "关于我们_北京勘星航天科技有限公司"
+linkTitle: "关于我们"
+heading: "关于我们"
+description: "北京勘星航天科技有限公司成立于2019年，专注航天任务模拟体验、航天科普教育、青少年航天研学，致力于成为中国一流航天科普事业综合服务平台。"
+keywords: "勘星科技,北京勘星航天,航天科普教育,航天任务模拟,青少年航天研学,航天体验"
 menu: main
 weight: 40
 image: images/banner.jpg
-image_alt: "About Us"
+image_alt: "关于勘星科技"
 ---
 
 <div style="text-align: center;">
-<img src="/images/logo.png" alt="勘星科技" title="勘星科技" width=15%/>
+<img src="/images/logo.png" alt="勘星科技logo_青少年航天教育品牌" title="勘星科技" width=15%/>
 </div>
 <div style="text-align: center;">
-<img src="/images/勘星科技.png" alt="勘星科技" title="勘星科技" width=15%/>
+<img src="/images/勘星科技.png" alt="北京勘星航天科技有限公司" title="勘星科技" width=15%/>
 </div>
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
@@ -31,5 +34,5 @@ image_alt: "About Us"
 
 # 荣誉资质
 <div style="text-align: center;">
-<img src="/images/gaoxin.png" alt="国家级高新技术企业" title="国高新" width=20%/>
+<img src="/images/gaoxin.png" alt="勘星科技国家级高新技术企业证书" title="国家级高新技术企业" width=20%/>
 </div>

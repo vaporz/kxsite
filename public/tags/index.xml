@@ -1,10 +1,11 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Tags on 北京勘星航天科技有限公司</title>
-    <link>http://www.kanxingkeji.com/tags/</link>
-    <description>Recent content in Tags on 北京勘星航天科技有限公司</description>
+    <title>Tags on 勘星科技_青少年航天教育_航天任务模拟系统_航天科普文旅</title>
+    <link>https://www.kanxingkeji.com/tags/</link>
+    <description>Recent content in Tags on 勘星科技_青少年航天教育_航天任务模拟系统_航天科普文旅</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>zh</language><atom:link href="http://www.kanxingkeji.com/tags/index.xml" rel="self" type="application/rss+xml" />
+    <language>zh-CN</language>
+    <copyright>北京勘星航天科技有限公司</copyright><atom:link href="https://www.kanxingkeji.com/tags/index.xml" rel="self" type="application/rss+xml" />
   </channel>
 </rss>

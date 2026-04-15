@@ -1,8 +1,34 @@
 {{ $options := (dict "targetPath" "style.css" "outputStyle" "compressed" "enableSourceMap" .Site.Params.enableSourceMaps) }}
 {{ $style := resources.Get "sass/main.scss" | resources.ExecuteAsTemplate "main.scss" . | resources.ToCSS $options }}
-<title>{{ if .IsHome }}{{ .Site.Title }}{{ else }}{{ .Title }} | {{ .Site.Title }}{{ end }}</title>
+<title>{{ if .IsHome }}{{ .Site.Title }}{{ else }}{{ .Title }}{{ end }}</title>
 <meta charset="utf-8" />
 <meta name="viewport" content="width=device-width, initial-scale=1, user-scalable=no" />
+<meta name="description" content="{{ with .Description }}{{ . }}{{ else }}{{ with .Site.Params.description }}{{ . }}{{ end }}{{ end }}" />
+{{ with .Site.Params.keywords }}<meta name="keywords" content="{{ . }}" />{{ end }}
+{{ with .Site.Params.author }}<meta name="author" content="{{ . }}" />{{ end }}
+<link rel="canonical" href="{{ .Permalink }}" />
+<link rel="icon" href="/images/logo100.png" sizes="16x16" />
 <link rel="stylesheet" href="{{ $style.RelPermalink }}" />
 {{- partial "analytics/google-tag-manager/head.html" . -}}
 {{- partial "head/custom.html" . -}}
+{{ with .Site.Params.google_analytics_id }}
+<script async src="https://www.googletagmanager.com/gtag/js?id={{ . }}"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+  gtag('config', '{{ . }}');
+</script>
+{{ end }}
+{{ with .Site.Params.baidu_tongji_id }}
+<script>
+var _hmt = _hmt || [];
+(function() {
+  var hm = document.createElement("script");
+  hm.src = "https://hm.baidu.com/hm.js?{{ . }}";
+  var s = document.getElementsByTagName("script")[0];
+  s.parentNode.insertBefore(hm, s);
+})();
+</script>
+{{ end }}
+{{- partial "structured-data.html" . -}}

@@ -1,6 +1,6 @@
 {{ define "main" }}
     <header>
-        <h2>{{ .Title }}</h2>
+        <h2>{{ with .Params.heading }}{{ . }}{{ else }}{{ .Title }}{{ end }}</h2>
         <p>{{ .Description }}</p>
         {{ if .Site.Params.show_post_dates | default true }}
             {{- with .Date }}<time>{{ .Format "Jan 2, 2006" }}</time>{{ end }}

@@ -1,16 +1,29 @@
-baseURL = "http://www.kanxingkeji.com/"
-languageCode = "zh"
-title = "北京勘星航天科技有限公司"
+baseURL = "https://www.kanxingkeji.com/"
+languageCode = "zh-CN"
+title = "勘星科技_青少年航天教育_航天任务模拟系统_航天科普文旅"
 theme = "hugo-arcana"
-copyright = ""
+copyright = "北京勘星航天科技有限公司"
+
+[sitemap]
+    changefreq = "weekly"
+    priority = 0.8
+    filename = "sitemap.xml"
 
 [taxonomies]
     tag = "tags"
 
 [params]
-    description = "航天任务模拟操控和编程教学系统."
+    description = "勘星科技专注青少年航天教育与航天科普文旅，自主研发航天任务模拟系统软硬件产品，提供沉浸式航天任务操控体验、航天编程课程及科普教育解决方案。"
+    keywords = "航天教育,青少年航天,航天科普,航天任务模拟系统,航天文旅,航天编程,科普教育,模拟控制台,航天体验,研学营"
+    author = "北京勘星航天科技有限公司"
+    google_analytics_id = "G-44XH91FS5G"
+    baidu_tongji_id = "1c3a824282cf9b4ef9d40dc41aae84f1"
     show_post_dates = false
     show_post_image = false
+
+    [[params.social]]
+        name = "bilibili"
+        url = "https://space.bilibili.com/"
 
     [params.footer]
         [[params.footer.links]]

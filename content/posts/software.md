@@ -1,8 +1,11 @@
 ---
-title: "软件和课程"
+title: "航天编程课程_航天任务模拟软件_勘星科技"
+heading: "软件和课程"
 image: images/program.jpg
 date: "2024-09-21T00:00:00"
-summary: "本系统可以模拟各种航天任务，例如火箭发射，空间交会对接，火星着陆，月球着陆等。结合我们开发的“航天任务编程控制系统”，还可以用来教授极具特色的“航天编程课”。"
+description: "勘星科技航天任务编程控制系统，支持Scratch、Python、C++等多种编程语言，让学生通过编程自动化完成航天任务。"
+keywords: "航天编程课程,航天编程软件,青少年编程教育,Scratch编程,Python编程"
+summary: '本系统可以模拟各种航天任务，例如火箭发射，空间交会对接，火星着陆，月球着陆等。结合我们开发的"航天任务编程控制系统"，还可以用来教授极具特色的"航天编程课"。'
 ---
 <div style="text-align: center;">
 <iframe src="//player.bilibili.com/player.html?isOutside=true&aid=632752232&bvid=BV1gb4y1U7Gt&cid=403187886&p=1&danmaku=0&high_quality=1" width="80%" height="560" scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="allowfullscreen"></iframe>

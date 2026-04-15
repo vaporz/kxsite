@@ -1,7 +1,10 @@
 ---
-title: "应用案例"
+title: "航天科普应用案例_学校研学科技节_勘星科技"
+heading: "应用案例"
 image: images/scene_classroom2_small.jpg
 date: "2024-09-19T00:00:00"
+description: "勘星科技航天任务模拟系统已成功应用于中小学校、少儿编程机构、游学营研学营、商圈体验等场景，覆盖北京八一学校、成都市航天中学等多所学校。"
+keywords: "航天科普应用案例,航天研学基地,航天特色实验室,校园科技节"
 summary: "本产品已成功应用于各种场合，包括中小学校内教学，少儿编程机构，游学营、研学营，商圈游玩体验等。"
 ---
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;

@@ -1,0 +1,97 @@
+{{ if .IsHome }}
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "Organization",
+  "name": "北京勘星航天科技有限公司",
+  "url": "https://www.kanxingkeji.com",
+  "logo": "https://www.kanxingkeji.com/images/logo.png",
+  "description": "勘星科技专注青少年航天教育与航天科普文旅，自主研发航天任务模拟系统软硬件产品。",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "北京市朝阳区民族园路2号丰宝恒大厦3007",
+    "addressLocality": "北京",
+    "addressRegion": "朝阳区",
+    "addressCountry": "CN"
+  },
+  "contactPoint": {
+    "@type": "ContactPoint",
+    "telephone": "+86-15011468498",
+    "email": "zhangxiao@kanxingkeji.com",
+    "contactType": "customer service"
+  },
+  "sameAs": []
+}
+</script>
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "WebSite",
+  "name": "勘星科技官网",
+  "url": "https://www.kanxingkeji.com",
+  "description": "勘星科技专注青少年航天教育与航天科普文旅，自主研发航天任务模拟系统软硬件产品。",
+  "publisher": {
+    "@type": "Organization",
+    "name": "北京勘星航天科技有限公司"
+  }
+}
+</script>
+{{ end }}
+
+{{ if eq .Path "product/" }}
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "Product",
+  "name": "航天任务模拟控制台",
+  "description": "勘星科技航天任务模拟硬件设备，包括座舱式模拟控制台、双座/单座模拟控制台、桌面控制台等。",
+  "brand": {
+    "@type": "Organization",
+    "name": "勘星科技"
+  },
+  "category": "航天科普教育设备",
+  "image": "https://www.kanxingkeji.com/images/cabin_title.png"
+}
+</script>
+{{ end }}
+
+{{ if eq .Path "software/" }}
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "Course",
+  "name": "航天编程课程",
+  "description": "勘星科技航天任务编程控制系统，支持Scratch、Python、C++等多种编程语言。",
+  "provider": {
+    "@type": "Organization",
+    "name": "北京勘星航天科技有限公司",
+    "url": "https://www.kanxingkeji.com"
+  },
+  "educationalLevel": "中小学",
+  "inLanguage": "zh-CN"
+}
+</script>
+{{ end }}
+
+{{ if not .IsHome }}
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "BreadcrumbList",
+  "itemListElement": [
+    {
+      "@type": "ListItem",
+      "position": 1,
+      "name": "首页",
+      "item": "https://www.kanxingkeji.com/"
+    },
+    {
+      "@type": "ListItem",
+      "position": 2,
+      "name": "{{ .Title }}",
+      "item": "{{ .Permalink }}"
+    }
+  ]
+}
+</script>
+{{ end }}
