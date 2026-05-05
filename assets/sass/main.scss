@@ -936,8 +936,11 @@
             {{ (.Site.Data.homepage.banner.image | default "images/banner.jpg") }}
         );
         background-position: center center;
-        background-size: cover;
-        height: 28em;
+        background-size: contain;
+        background-repeat: no-repeat;
+        background-color: #1b1b1b;
+        height: 0;
+        padding-bottom: 49.5%;
         text-align: center;
         position: relative;
 
@@ -1084,7 +1087,6 @@
         /* Banner */
 
             #banner {
-                height: 24em;
             }
 
     }
@@ -1133,7 +1135,6 @@
         /* Banner */
 
             #banner {
-                height: 20em;
             }
 
         /* Wrapper */
@@ -1251,7 +1252,6 @@
         /* Banner */
 
             #banner {
-                height: 20em;
 
                 header {
                     h2 {
@@ -1489,7 +1489,6 @@
         /* Banner */
 
             #banner {
-                height: 18em;
             }
 
         /* Wrapper */
@@ -1551,7 +1550,6 @@
         /* Banner */
 
             #banner {
-                height: 20em;
 
                 header {
                     padding: 20px;

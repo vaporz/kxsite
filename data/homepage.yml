@@ -1,6 +1,6 @@
 banner:
   enable: true
-  image: "images/banner.jpg"
+  image: "images/banner.webp"
   contents: "为青少年量身定制的，场景式、沉浸式、体验式航天任务模拟系统"
   button:
     contents: "了解更多"
