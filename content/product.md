@@ -6,7 +6,7 @@ description: "勘星科技航天任务模拟硬件设备，包括座舱式模拟
 keywords: "航天模拟控制台,航天任务模拟设备,座舱式模拟控制台,航天科普设备,青少年航天教具"
 menu: main
 weight: 15
-image: images/banner.jpg
+image: images/banner.webp
 image_alt: "航天任务模拟控制台硬件设备"
 tags:
 sidebar_left: sidebar1
@@ -22,13 +22,38 @@ sidebar_left: sidebar1
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 本系统可用于模拟各类航天任务，可以根据需求快速定制各种场景。
 
+#### <div style="text-align: center;">桌面模拟控制台</div>
+<div style="text-align: center;">
+<img src="/images/panel_desktop.webp" alt="桌面型航天模拟控制台_小型航天任务模拟设备" title="桌面模拟控制台" width=100%/>
+</div>
+<div style="text-align: center;">
+<img src="/images/desk.webp" alt="桌面式航天模拟控制台套装_学校航天科普教室设备" title="桌面模拟控制台" width=60%/>
+</div>
+<p>
 
 <div style="text-align: center;">
-<img src="/images/cabin_title.png" alt="座舱式航天任务模拟控制台_全沉浸航天体验设备" title="座舱式模拟控制台" width=100%/>
+<img src="/images/one_seat_console.webp" alt="单座航天模拟控制台_三触摸屏操控" title="单座模拟控制台" width=100%/>
+</div>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+控制台上的3个屏幕为触摸屏，可以直接通过触摸屏控制模拟的航天器。
+<p>
+
+<div style="text-align: center;">
+<img src="/images/panel_2.webp" alt="双座航天模拟控制台_四触摸屏操控" title="双座模拟控制台" width=100%/>
+</div>
+<div style="text-align: center;">
+<img src="/images/two_seat_console_desc.webp" alt="双座模拟控制台详细说明_航天任务模拟设备" title="双座模拟控制台" width=100%/>
+</div>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+控制台上的4个屏幕为触摸屏，可以直接通过触摸屏控制模拟的航天器。
+<p>
+
+<div style="text-align: center;">
+<img src="/images/cabin_title.webp" alt="座舱式航天任务模拟控制台_全沉浸航天体验设备" title="座舱式模拟控制台" width=100%/>
 </div>
 
 <div style="text-align: center;">
-<img src="/images/cabin_desc.png" alt="座舱式模拟控制台内部结构_振动座椅控制面板" title="座舱式模拟控制台" width=100%/>
+<img src="/images/cabin_desc.webp" alt="座舱式模拟控制台内部结构_振动座椅控制面板" title="座舱式模拟控制台" width=100%/>
 </div>
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
@@ -36,40 +61,14 @@ sidebar_left: sidebar1
 \
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 能够为体验者带来极致的沉浸体验，不仅适合科普教学，也适合在科技馆、商场、旅游景区等处作为收费游玩项目。
-
-<div style="text-align: center;">
-<img src="/images/cabin2.png" alt="座舱式航天模拟控制台外观_青少年航天科普设备" title="座舱式模拟控制台" width=100%/>
-</div>
 <p>
 
-<div style="text-align: center;">
-<img src="/images/panel_2.png" alt="双座航天模拟控制台_四触摸屏操控" title="双座模拟控制台" width=100%/>
-</div>
-<div style="text-align: center;">
-<img src="/images/two_seat_console_desc.png" alt="双座模拟控制台详细说明_航天任务模拟设备" title="双座模拟控制台" width=100%/>
-</div>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-控制台上的4个屏幕为触摸屏，可以直接通过触摸屏控制模拟的航天器。
-<p>
+#### <div style="text-align: center;">模拟飞行控制中心</div>
 
 <div style="text-align: center;">
-<img src="/images/one_seat_console.png" alt="单座航天模拟控制台_三触摸屏操控" title="单座模拟控制台" width=100%/>
+<img src="/images/center-console.webp" alt="模拟飞控中心控制台_模拟飞行控制中心" title="模拟飞控中心控制台" width=80%/>
 </div>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-控制台上的3个屏幕为触摸屏，可以直接通过触摸屏控制模拟的航天器。
-<p>
 
-#### <div style="text-align: center;">桌面模拟控制台</div>
 <div style="text-align: center;">
-<img src="/images/panel_desktop.png" alt="桌面型航天模拟控制台_小型航天任务模拟设备" title="桌面模拟控制台" width=100%/>
+<img src="/images/center.webp" alt="模拟飞控中心示意图_模拟飞行控制中心" title="模拟飞控中心" width=100%/>
 </div>
-<div style="text-align: center;">
-<img src="/images/desk.png" alt="桌面式航天模拟控制台套装_学校航天科普教室设备" title="桌面模拟控制台" width=60%/>
-</div>
-<p>
-
-#### <div style="text-align: center;">学生编程终端</div>
-<div style="text-align: center;">
-<img src="/images/program.png" alt="学生航天编程终端_航天任务编程控制系统" title="学生编程终端" width=70%/>
-</div>
-<p>

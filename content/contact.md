@@ -6,11 +6,11 @@ description: "联系勘星科技，咨询航天任务模拟系统、航天科普
 keywords: "勘星科技联系方式,航天教育合作,航天科普产品咨询"
 menu: main
 weight: 50
-image: images/banner.jpg
+image: images/banner.webp
 image_alt: "联系勘星科技"
 ---
 <div style="text-align: center;">
-<img src="/images/location.png" alt="位置" title="位置" width=60%/>
+<img src="/images/location.webp" alt="位置" title="位置" width=60%/>
 </div>
 
 \
